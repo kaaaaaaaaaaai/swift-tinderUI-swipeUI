@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5185EBA9-3D13-4CE3-9E71-F119CA8F90A3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>swipeView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5C64FCEC8196106785EEB9DFB85FC01377E2BEFF</key>
+		<string>https://github.com/hotsplus/swift-tinderUI-swipeUI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>swipeView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5C64FCEC8196106785EEB9DFB85FC01377E2BEFF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hotsplus/swift-tinderUI-swipeUI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5C64FCEC8196106785EEB9DFB85FC01377E2BEFF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C64FCEC8196106785EEB9DFB85FC01377E2BEFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swipeView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
